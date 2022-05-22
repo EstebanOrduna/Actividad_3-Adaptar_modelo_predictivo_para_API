@@ -9,6 +9,7 @@ Flask-Migrate
 flask-restx
 Flask-Script
 Flask-SQLAlchemy
+Flask-swagger
 gevent
 greenlet
 gunicorn
